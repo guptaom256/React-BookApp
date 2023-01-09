@@ -1,0 +1,414 @@
+{
+    "state": [
+        {
+            "name": "Madhya Pradesh",
+            "city": [
+                {
+                    "name": "Satna",
+                    "block": [
+                        {
+                            "name": "Bandhavgarh",
+                            "school": [
+                                {
+                                    "name": "1-Academy",
+                                    "board": [
+                                        {
+                                            "name": "MP Board",
+                                            "standard": [
+                                                {
+                                                    "name": "1",
+                                                    "stream": [
+                                                        {
+                                                            "name": "High School",
+                                                            "subject": [
+                                                                {
+                                                                    "name": "Math",
+                                                                    "Author": [
+                                                                        {
+                                                                            "name": "ABC",
+                                                                            "price": 100,
+                                                                            "image": "https://ncert.nic.in/textbook/pdf/kemh1cc.jpg"
+                                                                        },
+                                                                        {
+                                                                            "name": "DEF",
+                                                                            "price": 100,
+                                                                            "image": "https://sbgstore.com/wp-content/uploads/2021/01/maths10term1schand1-scaled.jpg"
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "name": "English",
+                                                                    "Author": [
+                                                                        {
+                                                                            "name": "DEF",
+                                                                            "price": 100,
+                                                                            "image": "https://m.media-amazon.com/images/I/41hjj6edFIL.jpg"
+                                                                        },
+                                                                        {
+                                                                            "name": "GHI",
+                                                                            "price": 500,
+                                                                            "image": "https://ncert.nic.in/textbook/pdf/kemh1cc.jpg"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "11",
+                                                    "stream": [
+                                                        {
+                                                            "name": "Commerce",
+                                                            "subject": [
+                                                                {
+                                                                    "name": "Accountancy",
+                                                                    "Author": [
+                                                                        {
+                                                                            "name": "Acc Auth 1",
+                                                                            "price": 300,
+                                                                            "image": "https://ncert.nic.in/textbook/pdf/kemh1cc.jpg"
+                                                                        },
+                                                                        {
+                                                                            "name": "Acc Auth 2",
+                                                                            "price": 100,
+                                                                            "image": "https://ncert.nic.in/textbook/pdf/kemh1cc.jpg"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "2-KIIT",
+                                    "board": [
+                                        {
+                                            "name": "B.Tech.",
+                                            "standard": [
+                                                {
+                                                    "name": "CSE",
+                                                    "stream": [
+                                                        {
+                                                            "name": "4th",
+                                                            "subject": [
+                                                                {
+                                                                    "name": "DSA",
+                                                                    "Author": [
+                                                                        {
+                                                                            "name": "ABC",
+                                                                            "price": 100,
+                                                                            "image": "https://ncert.nic.in/textbook/pdf/kemh1cc.jpg"
+                                                                        },
+                                                                        {
+                                                                            "name": "DEF",
+                                                                            "price": 100,
+                                                                            "image": "https://ncert.nic.in/textbook/pdf/kemh1cc.jpg"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "Electronics",
+                                                    "stream": [
+                                                        {
+                                                            "name": "3rd",
+                                                            "subject": [
+                                                                {
+                                                                    "name": "BEE",
+                                                                    "Author": [
+                                                                        {
+                                                                            "name": "ABC",
+                                                                            "price": 100,
+                                                                            "image": "https://ncert.nic.in/textbook/pdf/kemh1cc.jpg"
+                                                                        },
+                                                                        {
+                                                                            "name": "DEF",
+                                                                            "price": 100,
+                                                                            "image": "https://ncert.nic.in/textbook/pdf/kemh1cc.jpg"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "2-VITS",
+                                    "board": [
+                                        {
+                                            "name": "B.E.",
+                                            "standard": [
+                                                {
+                                                    "name": "IT",
+                                                    "stream": [
+                                                        {
+                                                            "name": "5th",
+                                                            "subject": [
+                                                                {
+                                                                    "name": "OS",
+                                                                    "Author": [
+                                                                        {
+                                                                            "name": "ABC",
+                                                                            "price": 100,
+                                                                            "image": "https://ncert.nic.in/textbook/pdf/kemh1cc.jpg"
+                                                                        },
+                                                                        {
+                                                                            "name": "DEF",
+                                                                            "price": 650,
+                                                                            "image": "https://ncert.nic.in/textbook/pdf/kemh1cc.jpg"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "Mechanical",
+                                                    "stream": [
+                                                        {
+                                                            "name": "2nd",
+                                                            "subject": [
+                                                                {
+                                                                    "name": "BMS",
+                                                                    "Author": [
+                                                                        {
+                                                                            "name": "ABC",
+                                                                            "price": 100,
+                                                                            "image": "https://ncert.nic.in/textbook/pdf/kemh1cc.jpg"
+                                                                        },
+                                                                        {
+                                                                            "name": "DEF",
+                                                                            "price": 100,
+                                                                            "image": "https://ncert.nic.in/textbook/pdf/kemh1cc.jpg"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Amarpatan",
+                            "school": [
+                                {
+                                    "name": "1-CJS",
+                                    "board": [
+                                        {
+                                            "name": "CBSE Board",
+                                            "standard": [
+                                                {
+                                                    "name": "11",
+                                                    "stream": [
+                                                        {
+                                                            "name": "Biology",
+                                                            "subject": [
+                                                                {
+                                                                    "name": "Chemistry",
+                                                                    "Author": [
+                                                                        {
+                                                                            "name": "GHI",
+                                                                            "price": 600,
+                                                                            "image": "https://ncert.nic.in/textbook/pdf/kemh1cc.jpg"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "12",
+                                                    "stream": [
+                                                        {
+                                                            "name": "Commerce",
+                                                            "subject": [
+                                                                {
+                                                                    "name": "Accountancy",
+                                                                    "Author": [
+                                                                        {
+                                                                            "name": "JKL",
+                                                                            "price": 260,
+                                                                            "image": "https://ncert.nic.in/textbook/pdf/kemh1cc.jpg"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Jabalpur",
+                    "block": [
+                        {
+                            "name": "Vijay Nagar",
+                            "school": [
+                                {
+                                    "name": "1-DPS",
+                                    "board": [
+                                        {
+                                            "name": "CBSE Board",
+                                            "standard": [
+                                                {
+                                                    "name": "3",
+                                                    "stream": [
+                                                        {
+                                                            "name": "High School",
+                                                            "subject": [
+                                                                {
+                                                                    "name": "English",
+                                                                    "Author": [
+                                                                        {
+                                                                            "name": "DEF",
+                                                                            "price": 300,
+                                                                            "image": "https://ncert.nic.in/textbook/pdf/kemh1cc.jpg"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "name": "11",
+                                                    "stream": [
+                                                        {
+                                                            "name": "Commerce",
+                                                            "subject": [
+                                                                {
+                                                                    "name": "Accountancy",
+                                                                    "Author": [
+                                                                        {
+                                                                            "name": "ABC",
+                                                                            "price": 100,
+                                                                            "image": "https://ncert.nic.in/textbook/pdf/kemh1cc.jpg"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Uttar Pradesh",
+            "city": [
+                {
+                    "name": "Lucknow",
+                    "block": [
+                        {
+                            "name": "Malihabad",
+                            "school": [
+                                {
+                                    "name": "1-School1",
+                                    "board": [
+                                        {
+                                            "name": "CBSE Board",
+                                            "standard": [
+                                                {
+                                                    "name": "2",
+                                                    "stream": [
+                                                        {
+                                                            "name": "Mathematics",
+                                                            "subject": [
+                                                                {
+                                                                    "name": "Physics",
+                                                                    "Author": [
+                                                                        {
+                                                                            "name": "ABC",
+                                                                            "price": 100,
+                                                                            "image": "https://ncert.nic.in/textbook/pdf/kemh1cc.jpg"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Prayagraj",
+                    "block": [
+                        {
+                            "name": "allahabad",
+                            "school": [
+                                {
+                                    "name": "1-Alh",
+                                    "board": [
+                                        {
+                                            "name": "CBSE Board",
+                                            "standard": [
+                                                {
+                                                    "name": "3",
+                                                    "stream": [
+                                                        {
+                                                            "name": "High School",
+                                                            "subject": [
+                                                                {
+                                                                    "name": "Maths",
+                                                                    "Author": [
+                                                                        {
+                                                                            "name": "ABC",
+                                                                            "price": 100,
+                                                                            "image": "https://ncert.nic.in/textbook/pdf/kemh1cc.jpg"
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

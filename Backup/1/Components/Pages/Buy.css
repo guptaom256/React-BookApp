@@ -1,0 +1,180 @@
+.buy-container {
+    background-color: rgb(255, 246, 237);
+    padding-bottom: 0;
+}
+
+.buy-container select {
+    background-color: rgb(255, 251, 243);
+}
+
+.buy-container select option {
+    background-color: white;
+}
+
+.buy-container select:hover {
+    background-color: rgb(204, 204, 204);
+    cursor: pointer;
+}
+
+.buy-container input {
+    background-color: rgb(255, 251, 243);
+    border: 1px solid;
+}
+
+.header {
+    padding: 20px 10px 0 10px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.container {
+    max-width: 35rem;
+    padding: 20px 0px 20px 20px;
+    border: 1px solid black;
+    background-color: white;
+    margin: 20px auto;
+    box-shadow: 4px 4px 20px #acacac;
+    border-radius: 3px;
+    /* align-items: center;
+    text-align: center; */
+}
+
+.label {
+    padding: 22px 10px 8px 10px;
+    font-size: 1.1rem;
+}
+
+.buy-container .add-button {
+    padding: 5px 10px;
+    border-radius: 10px;
+    background-color: white;
+    margin-bottom: 20px;
+}
+
+.buy-container .add-button:hover {
+    background-color: rgb(204, 204, 204);
+}
+
+.left-td-buy {
+    width: 150px;
+}
+
+.right-td-buy {
+    width: 50px;
+}
+
+.state {
+    width: 230px;
+    box-shadow: 2px 2px 8px #acacac;
+}
+
+.city {
+    width: 230px;
+    box-shadow: 2px 2px 8px #acacac;
+}
+
+.block-selection {
+    width: 230px;
+    box-shadow: 2px 2px 8px #acacac;
+}
+
+.pincode-selection {
+    height: 28px;
+    width: 230px;
+    padding-left: 20px;
+    box-shadow: 2px 2px 8px #acacac;
+}
+
+.instituteType-selection {
+    width: 230px;
+    box-shadow: 2px 2px 8px #acacac;
+}
+
+.board-selection {
+    width: 230px;
+    box-shadow: 2px 2px 8px #acacac;
+}
+
+.class-selection {
+    width: 230px;
+    box-shadow: 2px 2px 8px #acacac;
+}
+
+.subject-selection {
+    width: 230px;
+    box-shadow: 2px 2px 8px #acacac;
+}
+
+.school-name {
+    width: 230px;
+    box-shadow: 2px 2px 8px #acacac;
+}
+
+.book-title {
+    height: 28px;
+    width: 230px;
+    padding-left: 20px;
+    box-shadow: 2px 2px 8px #acacac;
+}
+
+.author-name {
+    height: 28px;
+    width: 230px;
+    padding-left: 20px;
+    box-shadow: 2px 2px 8px #acacac;
+}
+
+.book-price {
+    height: 28px;
+    padding: 0 0 0 20px;
+    width: 230px;
+    box-shadow: 2px 2px 8px #acacac;
+}
+
+.college-name {
+    height: 28px;
+    width: 230px;
+    padding: 0 0 0 20px;
+    box-shadow: 2px 2px 8px #acacac;
+}
+
+.university-name {
+    height: 28px;
+    width: 230px;
+    padding: 0 0 0 20px;
+    box-shadow: 2px 2px 8px #acacac;
+}
+
+.degree-selection {
+    width: 230px;
+    box-shadow: 2px 2px 8px #acacac;
+}
+
+.stream-selection {
+    width: 230px;
+    box-shadow: 2px 2px 8px #acacac;
+}
+
+.semester-selection {
+    width: 230px;
+    box-shadow: 2px 2px 8px #acacac;
+}
+
+.subject-checkbox {
+    width: 15px;
+    height: 15px;
+    /* margin: 5px 0 2px 0; */
+    margin-right: 5px;
+}
+
+.subject-checkbox:hover {
+    width: 16px;
+    height: 16px;
+}
+
+.author-list {
+    margin-left: 17px;
+    width: 120px;
+    margin-bottom: 10px;
+    font-size: 15px;
+}

@@ -1,0 +1,73 @@
+[
+    {
+        "state": "Madhya Pradesh",
+        "city": "Satna",
+        "block": "Bandhavgarh",
+        "school": "Academy of child education",
+        "board": "MP Broard",
+        "standard": "1",
+        "stream": "High School",
+        "subject": "Math",
+        "bookImage": "https://url/image1",
+        "author": "A",
+        "price": "120"
+    },
+    {
+        "state": "Madhya Pradesh",
+        "city": "Satna",
+        "block": "Amarpatan",
+        "school": "DPS",
+        "board": "CBSE Broard",
+        "standard": "1",
+        "stream": "High School",
+        "subject": "English",
+        "bookImage": "https://url/image1",
+        "author": "B",
+        "price": "200"
+    },
+    {
+        "name": "",
+        "city": [
+            {
+                "name": "",
+                "block": [
+                    {
+                        "name": "",
+                        "school": [
+                            {
+                                "name": "",
+                                "board": [
+                                    {
+                                        "name": "",
+                                        "standard": [
+                                            {
+                                                "name": "",
+                                                "stream": [
+                                                    {
+                                                        "name": "",
+                                                        "subject": [
+                                                            {
+                                                                "name": "",
+                                                                "Author": [
+                                                                    {
+                                                                        "name": "",
+                                                                        "price": 0,
+                                                                        "image": ""
+                                                                    }
+                                                                ]
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
