@@ -126,7 +126,7 @@ function Registration() {
                     <button href="/login" className="w-100 btn btn-lg btn-primary" type="submit">Register</button>
                     <ToastContainer toastStyle={{ backgroundColor: "green" , color: "white"}} />
                     <p className="text-center text-muted mt-5 mb-0">Already have an account? <Link to="/login"><u>Login here</u></Link></p>
-                    <p className="mt-5 mb-3 text-muted">&copy; copyright 2022</p>
+                    <p className="mt-5 mb-3 text-muted">~by OM GUPTA</p>
                 </form>
             </main>
         </div>

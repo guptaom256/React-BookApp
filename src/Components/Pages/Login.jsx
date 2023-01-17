@@ -87,7 +87,7 @@ function Login(props) {
                         </div> */}
                     <button className="w-100 btn btn-lg btn-primary" type="submit">Login</button>
                     <p className="text-center text-muted mt-5 mb-0">Don't have an account? <Link to="/"><u>Register here</u></Link></p>
-                    <p className="mt-5 mb-3 text-muted">&copy; copyright 2022</p>
+                    <p className="mt-5 mb-3 text-muted">~by OM GUPTA</p>
                 </form>
             </main>
         </div>
