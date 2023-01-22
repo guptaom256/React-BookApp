@@ -1,6 +1,7 @@
 import React from 'react';
 import Navbar from './Navbar';
 import { useNavigate } from 'react-router-dom';
+import "./Buy.css";
 
 
 function Checkout(props) {
@@ -57,8 +58,8 @@ function Checkout(props) {
           </table>
         </div>
         <div style={{ textAlign: "center", marginTop: "20px" }}>
-          <button onClick={handleCancelClick} style={{ padding: "4px 8px", margin: "0 5px", borderRadius: "15px" }}>Cancel</button>
-          <button onClick={handlePaymentClick} style={{ padding: "4px 8px", margin: "0 5px", borderRadius: "15px" }} type="submit">Proceed to payment</button>
+          <button className='cancelCheckout' onClick={handleCancelClick} style={{ padding: "4px 8px", margin: "0 5px", borderRadius: "15px" }}>Cancel</button>
+          <button className='paymentCheckout' onClick={handlePaymentClick} style={{ padding: "4px 8px", margin: "0 5px", borderRadius: "15px" }} type="submit">Proceed to payment</button>
         </div>
       </div>
     </div>
